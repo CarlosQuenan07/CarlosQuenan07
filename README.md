@@ -1,5 +1,5 @@
-# H1 HOLA AMIGUITOS
-![Alt] (imagenes/rey)
+ # HOLA AMIGUITOS
+![Alt](https://i.pinimg.com/originals/08/33/2d/08332d8a5faaf87bebd4354139565608.jpg)
 
 <!--
 **CarlosQuenan07/CarlosQuenan07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
