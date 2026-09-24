@@ -1,18 +1,31 @@
-# 🦁 Sobre Mi:
-Hola, mi nombre es carlos, tengo 17 años de edad, me gusta e intesera mucho el desarrollo, actualmente estudio ingenieria de sistemas en la Universidad Mariana y cree mi perfil de git hub para subir cada uno de mis proyectos.<br>
+# 👋 Hola, soy Carlos Quenan
 
+### 💻 Estudiante de Ingeniería de Sistemas | Desarrollador de Software
 
-## 🌐 Redes Sociales:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/CarlosAndresQuenan ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/carlosquenan07) 
-# 📊 Mis Estadisticas De GitHub:
-![](https://github-readme-stats.vercel.app/api?username=CarlosQuenan07&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosQuenan07&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosQuenan07&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+Estudiante de **Ingeniería de Sistemas** apasionado por el desarrollo de software y la creación de soluciones tecnológicas.
 
-### 🔝 Repositorio Con Mas Contribuciones 
-![](https://github-contributor-stats.vercel.app/api?username=CarlosQuenan07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Actualmente enfocado en fortalecer mis conocimientos en **desarrollo web, APIs, bases de datos, microservicios y computación en la nube**.
+
+### 🛠️ Tecnologías
+
+**Java · JavaScript · PHP · Python**
+
+**Laravel · React · Node.js · Express · GraphQL**
+
+**MySQL · DynamoDB**
+
+**AWS · Git · GitHub · Maven**
+
+### 🚀 Actualmente
+
+📚 Aprendiendo y fortaleciendo mis habilidades en desarrollo de software.
+
+🌐 Explorando arquitecturas web, APIs y microservicios.
+
+☁️ Profundizando en tecnologías y servicios de AWS.
+
+🎯 Buscando convertir conocimientos en soluciones prácticas y seguir creciendo como desarrollador.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CarlosQuenan07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📫 **GitHub:** [CarlosQuenan07](https://github.com/CarlosQuenan07)
